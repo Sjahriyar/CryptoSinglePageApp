@@ -1,0 +1,97 @@
+{
+    "table": "trade",
+    "action": "insert",
+    "data": [
+        {
+            "timestamp": "2023-06-19T19:36:27.249Z",
+            "symbol": "XBTUSD",
+            "side": "Sell",
+            "size": 100,
+            "price": 26602.5,
+            "tickDirection": "MinusTick",
+            "trdMatchID": "76f427e9-6ac7-641a-4490-8a9605e47d6d",
+            "grossValue": 375905,
+            "homeNotional": 0.00375905,
+            "foreignNotional": 100.0,
+            "trdType": "Regular"
+        },
+        {
+            "timestamp": "2023-06-19T19:36:27.249Z",
+            "symbol": "XBTUSD",
+            "side": "Sell",
+            "size": 1100,
+            "price": 26602.5,
+            "tickDirection": "ZeroMinusTick",
+            "trdMatchID": "2fc7308d-5057-7326-b55f-d0c48b7e00cf",
+            "grossValue": 4134955,
+            "homeNotional": 0.04134955,
+            "foreignNotional": 1100.0,
+            "trdType": "Regular"
+        },
+        {
+            "timestamp": "2023-06-19T19:36:27.249Z",
+            "symbol": "XBTUSD",
+            "side": "Sell",
+            "size": 100,
+            "price": 26602.5,
+            "tickDirection": "ZeroMinusTick",
+            "trdMatchID": "b9a70556-9122-d28c-61a1-a812cefd5876",
+            "grossValue": 375905,
+            "homeNotional": 0.00375905,
+            "foreignNotional": 100.0,
+            "trdType": "Regular"
+        },
+        {
+            "timestamp": "2023-06-19T19:36:27.249Z",
+            "symbol": "XBTUSD",
+            "side": "Sell",
+            "size": 4800,
+            "price": 26602.5,
+            "tickDirection": "ZeroMinusTick",
+            "trdMatchID": "b2d09e14-5529-9097-e261-b135fa6d18eb",
+            "grossValue": 18043440,
+            "homeNotional": 0.1804344,
+            "foreignNotional": 4800.0,
+            "trdType": "Regular"
+        },
+        {
+            "timestamp": "2023-06-19T19:36:27.249Z",
+            "symbol": "XBTUSD",
+            "side": "Sell",
+            "size": 74000,
+            "price": 26601.5,
+            "tickDirection": "MinusTick",
+            "trdMatchID": "02d5210b-d43a-27a5-c194-46b37852df44",
+            "grossValue": 278180060,
+            "homeNotional": 2.7818006,
+            "foreignNotional": 74000.0,
+            "trdType": "Regular"
+        },
+        {
+            "timestamp": "2023-06-19T19:36:27.322Z",
+            "symbol": "XBTUSD",
+            "side": "Sell",
+            "size": 100,
+            "price": 26601.0,
+            "tickDirection": "MinusTick",
+            "trdMatchID": "faa3a636-1ea6-b5d0-694a-108970244bad",
+            "grossValue": 375926,
+            "homeNotional": 0.00375926,
+            "foreignNotional": 100.0,
+            "trdType": "Regular"
+        },
+        {
+            "timestamp": "2023-06-19T19:36:27.602Z",
+            "symbol": "XBTUSD",
+            "side": "Sell",
+            "size": 100,
+            "price": 26601.0,
+            "tickDirection": "ZeroMinusTick",
+            "trdMatchID": "16daeacb-8c70-5864-a6af-1f1bc96652c8",
+            "grossValue": 375926,
+            "homeNotional": 0.00375926,
+            "foreignNotional": 100.0,
+            "trdType": "Regular"
+        }
+    ]
+}
